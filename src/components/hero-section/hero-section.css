@@ -1,0 +1,12 @@
+#hero{
+    height: 500px;
+    background-image: url(../../images/wallpaperflare.com_wallpaper_3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* opacity: 0.5; */
+}
+
+
+.text-justify{
+    text-align: justify;
+}
